@@ -4,9 +4,23 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+
+class Test extends React.Component {
+  render(){
+    return (
+      <div>
+        <h1 className="thisShit">Hello putos</h1>
+        <helloPutos />
+      </div>
+
+    );
+  }
+}
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Test />
   </React.StrictMode>,
   document.getElementById('root')
 );
