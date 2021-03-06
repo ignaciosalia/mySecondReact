@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ignaciosalia.github.io/mySecondReact/static/css/main.8bda87bb.chunk.css",
+    "main.js": "/ignaciosalia.github.io/mySecondReact/static/js/main.491b6aa5.chunk.js",
+    "main.js.map": "/ignaciosalia.github.io/mySecondReact/static/js/main.491b6aa5.chunk.js.map",
+    "runtime-main.js": "/ignaciosalia.github.io/mySecondReact/static/js/runtime-main.1580bb02.js",
+    "runtime-main.js.map": "/ignaciosalia.github.io/mySecondReact/static/js/runtime-main.1580bb02.js.map",
+    "static/js/2.7ddc4ddd.chunk.js": "/ignaciosalia.github.io/mySecondReact/static/js/2.7ddc4ddd.chunk.js",
+    "static/js/2.7ddc4ddd.chunk.js.map": "/ignaciosalia.github.io/mySecondReact/static/js/2.7ddc4ddd.chunk.js.map",
+    "static/js/3.339488dd.chunk.js": "/ignaciosalia.github.io/mySecondReact/static/js/3.339488dd.chunk.js",
+    "static/js/3.339488dd.chunk.js.map": "/ignaciosalia.github.io/mySecondReact/static/js/3.339488dd.chunk.js.map",
+    "index.html": "/ignaciosalia.github.io/mySecondReact/index.html",
+    "static/css/main.8bda87bb.chunk.css.map": "/ignaciosalia.github.io/mySecondReact/static/css/main.8bda87bb.chunk.css.map",
+    "static/js/2.7ddc4ddd.chunk.js.LICENSE.txt": "/ignaciosalia.github.io/mySecondReact/static/js/2.7ddc4ddd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ignaciosalia.github.io/mySecondReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1580bb02.js",
+    "static/js/2.7ddc4ddd.chunk.js",
+    "static/css/main.8bda87bb.chunk.css",
+    "static/js/main.491b6aa5.chunk.js"
+  ]
+}
